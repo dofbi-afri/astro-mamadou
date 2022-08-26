@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: document
   path: src/pages/index.md
-  label: index
+  label: cv
 upload_dir: public
 public_path: "/public"
 front_matter_path: ''
